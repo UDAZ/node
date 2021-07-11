@@ -11,7 +11,7 @@ process.nextTick(() => {
 });
 
 Promise.resolve().then(() => {
-  console.log("Promise.resolve().then()")
+  console.log("Promise.resolve().then()");
 });
 
 // set系はフェーズ群、nextTickとPromiseはキュー群。
