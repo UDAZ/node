@@ -3,5 +3,6 @@ Udemyにて学習中
 httpが楽しかった。
 ```
 npm init
-type nul > index.js 
+type nul > index.js
+launch.json
 ```
