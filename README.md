@@ -6,6 +6,8 @@ npm init
 ```
 ```
 type nul > index.js
+```
+```
 launch.json
 node index.js
 ```
