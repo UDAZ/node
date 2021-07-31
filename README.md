@@ -13,3 +13,4 @@ launch.json
 ```
 node index.js
 ```
+sever便利
