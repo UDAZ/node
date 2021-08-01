@@ -13,4 +13,5 @@ launch.json
 ```
 node index.js
 ```
-sever便利
+server便利
+request response
