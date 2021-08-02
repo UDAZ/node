@@ -13,5 +13,12 @@ launch.json
 ```
 node index.js
 ```
+```
+npm install
+```
+```
+npm ls
+```
 server便利
 request response
+
