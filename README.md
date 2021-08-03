@@ -19,6 +19,9 @@ npm install
 ```
 npm ls
 ```
+```
+npm unistall
+```
 server便利
 request response
 
