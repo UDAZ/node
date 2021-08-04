@@ -22,6 +22,9 @@ npm ls
 ```
 npm unistall
 ```
+```
+yum install nodejs
+```
 server便利
 request response
 
