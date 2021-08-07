@@ -38,6 +38,9 @@ yum install nodejs
 ```
 module.exports
 ```
+```
+require
+```
 
 server 便利
 request response
