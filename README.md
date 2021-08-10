@@ -39,7 +39,7 @@ yum install nodejs
 module.exports
 ```
 ```
-require
+var hoge = require("/fuga")
 ```
 
 server 便利
