@@ -36,7 +36,7 @@ yum install nodejs
 ```
 
 ```
-module.exports
+module.exports = fuga
 ```
 ```
 var hoge = require("/fuga")
