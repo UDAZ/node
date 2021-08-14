@@ -42,6 +42,6 @@ module.exports = fuga
 var hoge = require("/fuga")
 
 ```
-
 server 便利
 request response
+
