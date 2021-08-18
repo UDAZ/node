@@ -43,6 +43,6 @@ var hoge = require("/fuga")
 
 ```
 
-server 便利
+server
 request response
 
