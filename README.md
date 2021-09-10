@@ -1,7 +1,7 @@
 # node
 
 Udemy にて学習中
-http が楽しかった。
+http が楽しかった.server
 
 ```
 npm init
