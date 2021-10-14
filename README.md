@@ -47,6 +47,3 @@ var hoge = require("/fuga")
 server
 
 request response
-package　
-
-math
