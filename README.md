@@ -2,7 +2,7 @@
 
 Udemy にて学習中
 http が楽しかったよ
-次はflutterを習ってみたい。
+次はflutterを習ってみたいね
 
 ```
 npm init
